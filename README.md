@@ -20,4 +20,5 @@
     ```
     diff-cmd=/usr/local/bin/diffwrap.sh
     ```
-
+- **`增加xshell 配色配置`**
+   文件 : zkl.xcs  就是配色配置文件
